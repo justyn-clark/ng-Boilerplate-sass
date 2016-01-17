@@ -1,0 +1,11 @@
+/**
+ * Header
+ */
+
+.page-header {
+  margin-top: 60px;
+
+  &:first-child {
+    margin-top: 20px;
+  }
+}
